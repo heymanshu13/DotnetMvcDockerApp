@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "ITk9eHecDbE=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\himanshu.k\\Desktop\\DotnetMvcDockerApp\\DotnetMvcDockerApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ITk9eHecDbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himanshu.k\\Desktop\\DotnetMvcDockerApp\\DotnetMvcDockerApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 44c4e9e4678e3b0f2bdba26c40f00d61b16dd595
 }
